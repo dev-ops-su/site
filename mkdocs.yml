@@ -15,7 +15,9 @@ nav:
     - Introduction: 'index.md'
  
 theme:
-  language: ru
+    name: mkdocs
+    locale: ru
+    highlightjs: true
 
 plugins:
     - search:
